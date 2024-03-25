@@ -2,7 +2,8 @@
 _This project shows a way to convert Computational Fluid Dynamics simulation results (e.g. OpenFoam, Ansys, etc.) into VR visualizations within Unity_
 
 
-Link to journal article and citation details here: Manuscript under review
+Link to journal article and citation details here: **Manuscript under review**
+
 Once updated, this link will provide a description of the workflow and an example.
 
 ## for blender_x3D_import:
