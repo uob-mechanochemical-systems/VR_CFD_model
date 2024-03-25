@@ -8,7 +8,7 @@ Go to “Tools” -> Python Shell – > “Run Script” and select the paraview
 Go to “Tools” -> Python Shell – > “Run Script” and select the paraview python script. Also see https://openfoamwiki.net/index.php/Blender
 
 ## for the detailed step-by-step guide
-Please go to the ![step-to-step guide.pdf](./step-to-step-guide.pdf) contained in this repository. 
+Please go to the ![step-by-step guide](./step-to-step-guide.pdf) contained in this repository. 
 
 All assets may not work the same for differernt versions of Unity, please read the asset 
 description before purchase. And do read the asset instruction properly. For any asset that doesn't work properly, contacting the creator is a good solution. 
