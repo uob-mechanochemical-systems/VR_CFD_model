@@ -4,8 +4,6 @@ _This project shows a way to convert Computational Fluid Dynamics simulation res
 
 Link to journal article and citation details here: **Manuscript under review**
 
-Once updated, this link will provide a description of the workflow and an example.
-
 ## for the detailed step-by-step guide
 Please go to the ["step-by-step guide"](./step-to-step-guide.pdf) contained in this repository. 
 
