@@ -1,6 +1,8 @@
 # VR_CFD_model
 _This project shows a way to convert Computational Fluid Dynamics simulation results (e.g. OpenFoam, Ansys, etc.) into VR visualizations within Unity_
 
+A description of the workflow and an example is given in: **Manuscript under review**
+
 ## for blender_x3D_import:
 Go to “Tools” -> Python Shell – > “Run Script” and select the paraview python script.
 
