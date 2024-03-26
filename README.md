@@ -7,6 +7,7 @@ Link to journal article and citation details here: **Manuscript under review**
 ## for the detailed step-by-step guide
 Please go to the ["step-by-step guide"](./step-to-step-guide.pdf) contained in this repository. 
 
+![CFD-to-VR](./CFD-VR-workflow.png)
 
 ## Additional notes
 
