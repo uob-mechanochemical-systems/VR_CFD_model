@@ -2,7 +2,9 @@
 _This project shows a way to convert Computational Fluid Dynamics simulation results (e.g. OpenFoam, Ansys, etc.) into VR visualizations within Unity_
 
 
-Link to journal article and citation details here: **Manuscript under review**
+Link to journal article and citation details here:
+Si, R. & Stafford, J. (2024) Evaluating exposure to vehicle pollutants using physics-informed immersive reality models. Royal Society Open Science, 11, 241111(1-9). https://doi.org/10.1098/rsos.241111
+
 
 ## for the detailed step-by-step guide
 Please go to the ["step-by-step guide"](./step-to-step-guide.pdf) contained in this repository. 
